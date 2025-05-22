@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:activity_maps/screens/details/details_screen.dart';
+import 'package:activity_maps_photo/screens/details/detail_screen.dart';
 import '../../../constants.dart';
 
 class RecommendedPlants extends StatelessWidget {
